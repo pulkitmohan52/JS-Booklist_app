@@ -1,1 +1,1 @@
-# JS-Booklist_app
+# JS-Booklist_app:This is a simple booklist app that stores the book and removes them, whenever you do so, nice error/success messages are shown on the browser. Even after refreshing the page the data does not go away because the data is stored in the local storage.
